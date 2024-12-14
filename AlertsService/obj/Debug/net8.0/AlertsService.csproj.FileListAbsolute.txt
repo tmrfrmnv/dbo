@@ -1,0 +1,103 @@
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\AlertsService.exe
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\AlertsService.deps.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\AlertsService.runtimeconfig.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\AlertsService.dll
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\AlertsService.pdb
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.csproj.AssemblyReference.cache
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.AssemblyInfoInputs.cache
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.AssemblyInfo.cs
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.AlertsService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlertsService.props
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlertsService.props
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlertsService.props
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\scopedcss\bundle\AlertsService.styles.css
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsSe.9C2E1B4D.Up2Date
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.dll
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\refint\AlertsService.dll
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.pdb
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\AlertsService.genruntimeconfig.cache
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\ref\AlertsService.dll
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\bin\Debug\net8.0\AlertsService.staticwebassets.endpoints.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Documents\MyProject\AlertsService\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.AlertsService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\appsettings.json
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.exe
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.deps.json
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.runtimeconfig.json
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.dll
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.pdb
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.csproj.AssemblyReference.cache
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.AssemblyInfoInputs.cache
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.AssemblyInfo.cs
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.csproj.CoreCompileInputs.cache
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.AlertsService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlertsService.props
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlertsService.props
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlertsService.props
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\scopedcss\bundle\AlertsService.styles.css
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsSe.9C2E1B4D.Up2Date
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.dll
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\refint\AlertsService.dll
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.pdb
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.genruntimeconfig.cache
+C:\Users\tmrfrmnv\Desktop\dbo-master\AlertsService\obj\Debug\net8.0\ref\AlertsService.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\appsettings.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.exe
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.deps.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.runtimeconfig.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.pdb
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.csproj.AssemblyReference.cache
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.AssemblyInfoInputs.cache
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.AssemblyInfo.cs
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.csproj.CoreCompileInputs.cache
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.AlertsService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlertsService.props
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlertsService.props
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlertsService.props
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\scopedcss\bundle\AlertsService.styles.css
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsSe.9C2E1B4D.Up2Date
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\refint\AlertsService.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.pdb
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.genruntimeconfig.cache
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\ref\AlertsService.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\AlertsService.staticwebassets.endpoints.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.AlertsService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
