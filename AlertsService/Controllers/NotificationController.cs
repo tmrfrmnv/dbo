@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Options;
 using System.Net.Mail;
 using AlertsService.Models;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace AlertsService.Controllers
 {
@@ -20,6 +21,9 @@ namespace AlertsService.Controllers
         }
 
         [HttpPost("SendEmailWithAttachment")]
+        [SwaggerOperation(
+        Summary = "Уведомление с вложением",
+        Description = "Отправляет письмо на указанный адрес, с пользовательской темой сообщения и вложенными файлами")]
         public async Task<IActionResult> SendEmailWithAttachment(string email, string subject, string message, IFormFile file)
         {
             try
@@ -55,6 +59,9 @@ namespace AlertsService.Controllers
         }
 
         [HttpGet("GetEmailSettings")]
+        [SwaggerOperation(
+        Summary = "Вывод настроек отправителя",
+        Description = "Вывод текущих настроек почты, с которой посылаются запросы")]
         public IActionResult GetEmailSettings()
         {
             // Возвращаем текущие настройки почты
@@ -70,6 +77,9 @@ namespace AlertsService.Controllers
             return Ok(emailSettings);
         }
         [HttpPost("UpdateEmailSettings")]
+        [SwaggerOperation(
+        Summary = "Изменение данных отправителя",
+        Description = "Обновляет данные аккаунта почты, с которого посылаются запросы")]
         public IActionResult UpdateEmailSettings([FromBody] EmailSettings newSettings)
         {
             try
@@ -93,6 +103,9 @@ namespace AlertsService.Controllers
             }
         }
         [HttpPost("SendNotification")]
+        [SwaggerOperation(
+        Summary = "Уведомление",
+        Description = "Отправка обычного сообщения с заранее подготовленной темой в самом сервисе")]
         public async Task<IActionResult> SendNotification(string email, string message)
         {
             string subject = "Уведомление";
@@ -112,6 +125,9 @@ namespace AlertsService.Controllers
         }
 
         [HttpGet("GetLastEmail")]
+        [SwaggerOperation(
+        Summary = "Последний получатель",
+        Description = "Вывод последнего Email, на которое было отправлено письмо")]
         public IActionResult GetLastEmail()
         {
             // Получаем LastEmail из куки
@@ -127,6 +143,9 @@ namespace AlertsService.Controllers
         }
 
         [HttpGet("GetSentEmailsCount")]
+        [SwaggerOperation(
+        Summary = "Всего уведомлений",
+        Description = "Вывод общего числа отправленных писем за всё время")]
         public IActionResult GetSentEmailsCount()
         {
             // Получаем количество отправленных сообщений из EmailService

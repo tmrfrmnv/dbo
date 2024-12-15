@@ -101,3 +101,5 @@ C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности д�
 C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets\msbuild.AlertsService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\tmrfrmnv\Documents\SFedU HW\Цифровые возможности для бизнеса\dbo-master\AlertsService\obj\Debug\net8.0\AlertsService.sourcelink.json

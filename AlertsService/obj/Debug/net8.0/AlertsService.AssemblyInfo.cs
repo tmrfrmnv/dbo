@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlertsService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67cbf5b5acfb32606ce5bcf5df5129cb3d55570")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlertsService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlertsService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
